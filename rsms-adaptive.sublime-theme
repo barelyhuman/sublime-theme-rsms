@@ -3,7 +3,7 @@
   "variables": {
     "font_face":       "Inter Medium",
     "font_face_bold":  "Inter Semi Bold",
-    "font_face_mono":  "JetBrains Mono Medium",
+    "font_face_mono":  "Hermit",
     "font_size_sm":    11,
     "font_size":       11,
     "font_size_lg":    14,
@@ -63,7 +63,7 @@
       "fg": "var(sidebar_label_file)",
       "font.bold": false,
       "font.size": 12,
-      "font.face": "Hermit",
+      "font.face": "var(font_face_mono)",
     },
     { "class": "sidebar_label",
       "parents": [{"class": "window", "attributes": ["file_light"]}],
