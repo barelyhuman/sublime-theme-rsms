@@ -1,15 +1,19 @@
 # rsms sublime text theme
 
+The original theme can be found at [rsms/sublime-theme](https://github.com/rsms/sublime-theme), this is just a simple fork with a few additions for the sidebar. 
+
+All credits to the original author [rsms](https://github.com/rsms)
+
 Install:
 
 ```sh
 cd path/to/your/sublime/packages
-git clone https://github.com/rsms/sublime-theme.git rsms-theme
+git clone https://github.com/barelyhuman/sublime-theme-rsms.git rsms-theme
 ```
 
 You'll also need the fonts
+[Hermit](https://pcaro.es/hermit/)
 [Inter](https://rsms.me/inter/) and
-[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 installed on your system, which are used by the UI theme.
 
 
